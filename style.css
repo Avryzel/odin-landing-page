@@ -1,28 +1,38 @@
-* {
+body {
     margin: 0;
-    padding: 0;
 }
 
-body {
-    font-family: Roboto;
+* {box-sizing: border-box;}
+    
+.container{
+    width: 100vw;
+    height: 100vh;
 }
 
 .hero {
+    width: 100vw;
+    height: 30%;
     background-color: #1F2937;
-    display: flex;
-    align-items: center;
-    justify-content: space-around;
 }
 
-.header {
-    color: #F9FAF8;
-
+.information {
+    width: 100vw;
+    height: 25%;
 }
 
-.header-link ul {
-    list-style: none;
-    display: flex;
-    gap: 1rem;
-    color: #E5E7EB;
-    height: 18px;
+.quotes {
+    width: 100vw;
+    height: 20%;
+    background-color: #E5E7EB;
+}
+
+.action {
+    width: 100vw;
+    height: 20%;
+}
+
+.footer {
+    width: 100vw;
+    height: 5%;
+    background-color: #1F2937;
 }
