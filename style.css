@@ -1,5 +1,6 @@
 body {
     margin: 0;
+    font-family: Roboto;
 }
 
 * {box-sizing: border-box;}
@@ -13,6 +14,12 @@ body {
     width: 100vw;
     height: 30%;
     background-color: #1F2937;
+    border: 1px solid red;
+}
+
+#navbar {
+    color: F9FAF8;
+    height: 24px;
 }
 
 .information {
@@ -35,4 +42,9 @@ body {
     width: 100vw;
     height: 5%;
     background-color: #1F2937;
+    color: #E5E7EB;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
+
