@@ -10,21 +10,49 @@ body {
     height: 100vh;
 }
 
-.hero {
+.navbar {
     width: 100vw;
-    height: 30%;
+    height: 10%;
     background-color: #1F2937;
-    border: 1px solid red;
+    display: flex;
+    align-content: center;
+    justify-content: space-between;
+    align-items: center;
+    list-style: none;
 }
 
-#navbar {
-    color: F9FAF8;
-    height: 24px;
+#header-logo {
+    color: #F9FAF8;
+    font-size: 24px;
+    margin-left: 60px;
+}
+
+#header-link {
+    color: #E5E7Eb;
+    font-size: 18px;
+    margin-right: 60px;
+    
+}
+
+#header-link ul {
+    list-style: none;
+}
+
+ul li {
+    display: inline;
+    padding: 10px;
+}
+
+.hero {
+    width: 100vw;
+    height: 25%;
+    background-color: #1F2937;
+
 }
 
 .information {
     width: 100vw;
-    height: 25%;
+    height: 20%;
 }
 
 .quotes {
