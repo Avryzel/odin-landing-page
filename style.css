@@ -51,11 +51,16 @@ ul li {
     padding-top: 20px;
 }
 
+#secondary-text {
+    margin-left: 60px;
+    color: #E5E7Eb;
+    font-size: 18px;
+}   
+
 
 .hero {
     width: 100vw;
     height: 25%;
-
     background-color: #1F2937;
 
 }
