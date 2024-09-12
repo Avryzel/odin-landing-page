@@ -43,6 +43,12 @@ ul li {
     padding: 10px;
 }
 
+.hero {
+    width: 100vw;
+    height: 25%;
+    background-color: #1F2937;
+}
+
 #main-text {
     margin-left: 60px;
     color: #F9FAF8;
@@ -56,14 +62,6 @@ ul li {
     color: #E5E7Eb;
     font-size: 18px;
 }   
-
-
-.hero {
-    width: 100vw;
-    height: 25%;
-    background-color: #1F2937;
-
-}
 
 .information {
     width: 100vw;
