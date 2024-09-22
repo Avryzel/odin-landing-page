@@ -25,13 +25,13 @@ body {
 #header-logo {
     color: #F9FAF8;
     font-size: 24px;
-    margin-left: 60px;
+    margin-left: 100px;
 }
 
 #header-link {
     color: #E5E7Eb;
     font-size: 18px;
-    margin-right: 60px;
+    margin-right: 100px;
 }
 
 #header-link ul {
@@ -50,7 +50,7 @@ ul li {
 }
 
 #main-text {
-    margin-left: 60px;
+    margin-left: 100px;
     color: #F9FAF8;
     font-size: 48px;
     font-weight: 900;
@@ -58,14 +58,14 @@ ul li {
 }
 
 #secondary-text {
-    margin-left: 60px;
+    margin-left: 100px;
     color: #E5E7Eb;
     font-size: 18px;
     margin-top: 10px;
 }
 
 .button {
-    margin-left: 60px;
+    margin-left: 100px;
 }
 
 .button > button {
