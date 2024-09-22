@@ -61,6 +61,7 @@ ul li {
     margin-left: 60px;
     color: #E5E7Eb;
     font-size: 18px;
+    margin-top: 10px;
 }
 
 .button {
@@ -71,7 +72,7 @@ ul li {
     background-color: #3882F6;
     color: #F9FAF8;
     padding: 8px 14px;
-    margin-top: 2px;
+    margin-top: 15px;
     font-family: Roboto;
     border: none;
     border-radius: 10px;
