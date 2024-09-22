@@ -61,7 +61,23 @@ ul li {
     margin-left: 60px;
     color: #E5E7Eb;
     font-size: 18px;
-}   
+}
+
+.button {
+    margin-left: 60px;
+}
+
+.button > button {
+    background-color: #3882F6;
+    color: #F9FAF8;
+    padding: 8px 14px;
+    margin-top: 2px;
+    font-family: Roboto;
+    border: none;
+    border-radius: 10px;
+    width: 7%;
+    font-weight: bold;
+}
 
 .information {
     width: 100vw;
